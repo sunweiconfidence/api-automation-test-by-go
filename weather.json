@@ -1,0 +1,18 @@
+{
+        "weatherinfo": {
+              "StaffID": "北京",
+              "EsSearchCode": "elastic",
+              "PageNo": 1,
+              "WD": "北风",
+              "WS": "4级",
+              "SD": "23%",
+              "WSE": "4",
+              "time": "05:20",
+              "isRadar": "1",
+              "Radar": "JC_RADAR_AZ9010_JB"
+       },
+         "performesinfo": {
+              "pageNo": "1",
+              "searchcode": "generic"
+       }
+}
